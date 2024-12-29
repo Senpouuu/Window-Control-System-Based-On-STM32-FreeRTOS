@@ -1,0 +1,8 @@
+*.o
+*.d
+*.crf
+*.htm
+*.hex
+*.lnp
+*.dep
+2.1
